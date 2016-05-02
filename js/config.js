@@ -8,9 +8,9 @@ const CONFIG = {
   'transformer': {
     'cost': 400,
     'hp': 100,
-    'collisionDamage': 100,
-    'lightningDamage': 0.2,
-    'lightningRadius': 120
+    'collisionDamage': 1000,
+    'lightningDamage': 0.99,
+    'lightningRadius': 1200
   },
   'weasel': {
     'hp': 100,
